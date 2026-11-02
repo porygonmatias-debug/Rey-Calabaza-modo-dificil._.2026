@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "phases": [
+    {
+      "id": "phase-1",
+      "title": { "es": "La primera ronda", "en": "The opening round", "zh": "第一阶段" },
+      "note": { "es": "Mantén la secuencia y prepara el cambio de ritmo.", "en": "Hold the sequence and prepare for the shift in pace.", "zh": "按顺序行动，为节奏变化做好准备。" },
+      "image": "phase-one.png",
+      "turns": [
+        { "id": "p1t1", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Terremoto · Tropius: Ataque X en Krookodile.", "en": "Honchkrow: Sucker Punch · Krookodile: Earthquake · Tropius: use X Attack on Krookodile.", "zh": "乌鸦头头：偷袭 · 混混鳄：地震 · 热带龙：对混混鳄使用攻击增强剂。" } },
+        { "id": "p1t2", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Terremoto · Tropius: Ataque X en Honchkrow.", "en": "Honchkrow: Sucker Punch · Krookodile: Earthquake · Tropius: use X Attack on Honchkrow.", "zh": "乌鸦头头：偷袭 · 混混鳄：地震 · 热带龙：对乌鸦头头使用攻击增强剂。" } },
+        { "id": "p1t3", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Terremoto · Tropius: Galleta Calabaza.", "en": "Honchkrow: Sucker Punch · Krookodile: Earthquake · Tropius: Pumpkin Cookie.", "zh": "乌鸦头头：偷袭 · 混混鳄：地震 · 热带龙：南瓜饼干。" } }
+      ]
+    },
+    {
+      "id": "phase-2",
+      "title": { "es": "El giro de la calabaza", "en": "The pumpkin's twist", "zh": "南瓜的变招" },
+      "note": { "es": "Aquí la batalla cambia. El primer turno describe el cambio sin identificar qué Pokémon aparece.", "en": "The battle shifts here. Turn one describes the switch without identifying which Pokémon appears.", "zh": "战局在此发生变化。第一回合仅描述替换，不指明是哪只宝可梦。" },
+      "image": "phase-two.png",
+      "turns": [
+        { "id": "p2t1", "text": { "es": "La calabaza cambia los Pokémon de combate por los Pokémon de las partículas.", "en": "The pumpkin switches the combat Pokémon to the particle Pokémon.", "zh": "南瓜将出战宝可梦替换为粒子宝可梦。" } },
+        { "id": "p2t2", "text": { "es": "Lanza Galleta Gato al primer Pokémon, cura a Honchkrow y usa cualquier ataque.", "en": "Throw Cat Cookie at the first Pokémon, heal Honchkrow, and use any attack.", "zh": "对第一只宝可梦使用猫咪饼干，治疗乌鸦头头，并使用任意攻击。" } },
+        { "id": "p2t3", "text": { "es": "Vuelven los Pokémon de combate. Honchkrow: Ataque X en Krookodile · Krookodile: Terremoto · Tropius: Día Soleado.", "en": "The combat Pokémon return. Honchkrow: use X Attack on Krookodile · Krookodile: Earthquake · Tropius: Sunny Day.", "zh": "出战宝可梦返回。乌鸦头头：对混混鳄使用攻击增强剂 · 混混鳄：地震 · 热带龙：大晴天。" } },
+        { "id": "p2t4", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Triturar · Tropius: Refuerzo.", "en": "Honchkrow: Sucker Punch · Krookodile: Crunch · Tropius: Helping Hand.", "zh": "乌鸦头头：偷袭 · 混混鳄：咬碎 · 热带龙：帮助。" } },
+        { "id": "p2t5", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Terremoto · Tropius: Galleta Calabaza.", "en": "Honchkrow: Sucker Punch · Krookodile: Earthquake · Tropius: Pumpkin Cookie.", "zh": "乌鸦头头：偷袭 · 混混鳄：地震 · 热带龙：南瓜饼干。" } }
+      ]
+    },
+    {
+      "id": "phase-3",
+      "title": { "es": "El asalto final", "en": "The final push", "zh": "最终攻势" },
+      "note": { "es": "Repite el turno 2 para cerrar la secuencia. Adáptate si el combate se desvía.", "en": "Repeat turn two to complete the sequence. Adapt if the battle state changes.", "zh": "重复第二回合以完成此阶段。如果战况变化，请灵活调整。" },
+      "image": "phase-three.png",
+      "turns": [
+        { "id": "p3t1", "text": { "es": "Honchkrow: Ataque X en Krookodile · Krookodile: Terremoto · Tropius: Galleta Gato.", "en": "Honchkrow: use X Attack on Krookodile · Krookodile: Earthquake · Tropius: Cat Cookie.", "zh": "乌鸦头头：对混混鳄使用攻击增强剂 · 混混鳄：地震 · 热带龙：猫咪饼干。" } },
+        { "id": "p3t2", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Triturar · Tropius: Refuerzo.", "en": "Honchkrow: Sucker Punch · Krookodile: Crunch · Tropius: Helping Hand.", "zh": "乌鸦头头：偷袭 · 混混鳄：咬碎 · 热带龙：帮助。" } },
+        { "id": "p3t3", "text": { "es": "Honchkrow: Buena Baza · Krookodile: Triturar · Tropius: Refuerzo.", "en": "Honchkrow: Sucker Punch · Krookodile: Crunch · Tropius: Helping Hand.", "zh": "乌鸦头头：偷袭 · 混混鳄：咬碎 · 热带龙：帮助。" } }
+      ]
+    }
+  ]
+}
